@@ -57,4 +57,4 @@ in the Pycharm terminal to install all required packages.
 #### Summary for important and most frequently used git commands
 1. Check the current branch by typing `git branch` in Pycharm terminal. The green words means what the branch we are in
 2. `git checkout -b torch` create a feature branch called torch then switch to this new generated branch
-3. 
+3. ...
